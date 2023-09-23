@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Denzel-K
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning (HTML, CSS and Javascript)
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Denzel 
+-I’m a full-stack we developer
+-I’m currently learning (HTML, CSS, Javascript, NodeJs-Express, Databases-MySQL & MongoDb)
 - 📫 How to reach me Email: denzelk741@gmail.com
 
 <!---
