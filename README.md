@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://mandrilltech-v1.vercel.app/banner.png" alt="Mandrill Technologies Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there, I'm Denzel Kariuki 👋</h1>
 
 <p align="center">
@@ -45,24 +40,9 @@ I'm a passionate software developer specializing in building and designing speci
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denzel-k&show_icons=true&theme=radical" alt="Denzel's GitHub stats" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
 - 📧 Email: denzelk741@gmail.com
 - 📱 Phone: +254 110 725 965
 - 🌐 Website: [mandrilltech-v1.vercel.app](https://mandrilltech-v1.vercel.app)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Denzel-k&style=flat-square&color=blue" alt="Profile views" />
-</p>
