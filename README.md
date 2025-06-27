@@ -1,10 +1,6 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://mandrilltech-v1.vercel.app/banner.png" alt="Mandrill Technologies" width="100%" />
-</p>
-
 <h1 align="center">👋 Hey there, I’m Denzel Kariuki</h1>
-<h3 align="center">Founder @ Mandrill Technologies | Software Engineer | AI Integrator | Product Thinker</h3>
+<h3 align="center">Founder @ Mandrill Technologies | Software Engineer | AI Enthusiast | Product Thinker</h3>
 
 <p align="center">
   <a href="https://mandrilltech-v1.vercel.app" target="_blank">
