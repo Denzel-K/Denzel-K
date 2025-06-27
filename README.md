@@ -21,11 +21,12 @@
 
 ## 🚀 What I Offer
 
-🔹 **Full-stack Web Development** – Next.js, React, Node.js  
+🔹 **Full-stack Web, Mobile & Desktop Development** – Next.js, React, Node.js, React Native, Electron.js  
 🔹 **AI + Automation Solutions** – NLP, LLM APIs, AI chat assistants  
 🔹 **MVP Prototyping** – Wireframing, UX research, rapid iteration  
 🔹 **UI/UX Design Integration** – Tailored experiences that drive engagement  
-🔹 **Cloud-Native Architectures** – CI/CD, observability, IaC, scalable deployments  
+🔹 **Cloud-Native Architectures** – CI/CD, observability, IaC, scalable deployments 
+
 
 > 💡 Whether you're a founder validating an idea or an enterprise optimizing workflows, I’m ready to build with you.
 
@@ -42,6 +43,8 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Electron](https://img.shields.io/badge/Electron-2C2E3B?style=flat-square&logo=electron&logoColor=9FEAF9)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -96,19 +99,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Denzel-k&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Denzel-k&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Denzel-k&theme=tokyo-night&area=true&hide_border=true" />
-</p>
 
 ---
 
