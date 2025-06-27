@@ -41,41 +41,42 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-#### UI/UX & Styling
+---
+
+#### UI/UX & Design Tools
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
-#### DevOps & Tools
+---
+
+#### DevOps, Cloud, IaC & API Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
+![Nginx](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+[Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
+
+---
+
+#### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **MandrillTech** | 🚀 My portfolio & brand site. | `Next.js`, `TailwindCSS`, `Vercel` |
-| **AI Chat Companion** | 🤖 Smart assistant built with NLP. | `Python`, `Node.js`, `GPT APIs` |
-| **E-Commerce Backend** | 🛒 RESTful API for inventory, checkout, orders. | `Express.js`, `MongoDB`, `JWT` |
-
-> 👉 See all at [mandrilltech-v1.vercel.app](https://mandrilltech-v1.vercel.app)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Denzel-k&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Denzel-k&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Denzel-k&theme=tokyo-night&area=true&hide_border=true" />
-</p>
 
 ---
 
@@ -86,8 +87,3 @@
 - 🔗 Portfolio: [mandrilltech-v1.vercel.app](https://mandrilltech-v1.vercel.app)
 - 🧠 I’m open to freelance projects, startup collabs, or remote work opportunities!
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Denzel-k&label=Profile+Views&color=blueviolet&style=flat-square" alt="Denzel-k profile views" />
-</p>
